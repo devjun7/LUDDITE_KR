@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./assets/luddite-kr-banner.png" alt="LUDDITE_KR \ubc30\ub108">
+</p>
+
+<p align="center">
   <img src="./assets/luddite-kr-banner.png" alt="LUDDITE_KR 배너">
 </p>
 
