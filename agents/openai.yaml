@@ -1,0 +1,4 @@
+interface:
+  display_name: "LUDDITE_KR"
+  short_description: "뜻과 장르를 지키며 읽기 쉬운 사람다운 글로 다듬기"
+  default_prompt: "Use $luddite-kr to make this Korean text natural, clear, and easy to understand while preserving its meaning and genre."
