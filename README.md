@@ -6,7 +6,8 @@
 ![Codex](https://img.shields.io/badge/Codex-compatible-10A37F)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-compatible-D97757)
 
-AI가 쓴 흔적을 감추는 요령보다 더 중요한 일이 있습니다. 
+**AI가 쓴 흔적을 감추는 요령보다 더 중요한 일이 있습니다.**
+
 읽는 사람이 덜 힘들게 읽고, 한 번에 뜻을 이해하도록 글을 다시 편집하는 일입니다.
 
 **LUDDITE_KR**은 위 두가지 일을 한 번에 해주는 Skill입니다. AI의 경직된 한국어, 영어 번역투, 과장된 표현, 기계적인 문단 구조를 다듬어 사람이 읽기 편한 글을 만들어줍니다. 원문의 의미와 장르는 지키면서 문장 흐름·어휘·리듬·설명 방식을 자연스럽게 바꿔주거나 새로 글을 생성할 때 사용하실 수 있습니다.
