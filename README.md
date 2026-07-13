@@ -44,9 +44,7 @@ npx skills add devjun7/LUDDITE_KR
 ### Codex
 
 ~~~bash
-git clone https://github.com/devjun7/LUDDITE_KR.git "$HOME/LUDDITE_KR"
-mkdir -p "$HOME/.codex/skills"
-ln -s "$HOME/LUDDITE_KR" "$HOME/.codex/skills/luddite-kr"
+  npx skills add devjun7/LUDDITE_KR --skill luddite-kr -g -a codex -y
 ~~~
 
 Codex에서 다음처럼 요청합니다.
@@ -58,9 +56,7 @@ $luddite-kr 이 연구계획서를 뜻과 수치는 유지하면서 읽기 쉽�
 ### Claude Code
 
 ~~~bash
-git clone https://github.com/devjun7/LUDDITE_KR.git "$HOME/LUDDITE_KR"
-mkdir -p "$HOME/.claude/skills"
-ln -s "$HOME/LUDDITE_KR" "$HOME/.claude/skills/luddite-kr"
+  npx skills add devjun7/LUDDITE_KR --skill luddite-kr -g -a claude-code -y
 ~~~
 
 자연어로 요청해도 됩니다.
