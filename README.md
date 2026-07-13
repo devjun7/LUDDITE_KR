@@ -1,19 +1,3 @@
-<pre>
-LUDDITE_KR
-
-        ______________________
-   ____/_____________________/====================>
-  /____  _________________/          * CRACK *
-      /_/                              _/X\_
-                                   .-' / \ '-.
-                                  / \_/   \_/ \
-                                 |  /\  /\  /\ |
-                                 | /  \/  \/  \|
-                                  \ \_/\_/\_/ /
-                                   '-._____.-'
-                                      ChatGPT
-</pre>
-
 # LUDDITE_KR
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
