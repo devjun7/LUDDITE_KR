@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/luddite-kr-banner.png" alt="LUDDITE_KR 배너">
+</p>
+
 # LUDDITE_KR
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
